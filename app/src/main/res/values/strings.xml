@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">RecipeApplication</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="recipes_fragment">Recipes</string>
+    <string name="favourite_recipes">Favourites</string>
+    <string name="profile">Profile</string>
+    <string name="recipes">Recipes</string>
+    <string name="main_course">main course</string>
+    <string name="side_dish">side dish</string>
+    <string name="dessert">dessert</string>
+    <string name="appetizer">appetizer</string>
+    <string name="salad">salad</string>
+    <string name="breakfast">breakfast</string>
+    <string name="summary">Summary</string>
+    <string name="title">Title</string>
+    <string name="add_to_favorites">Add to Favorites</string>
+    <string name="favourites">Favourites</string>
+    <string name="no_favorites">No Favorites</string>
+    <string name="delete_favorite">Delete Favorite</string>
+</resources>
